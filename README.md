@@ -9,16 +9,16 @@ Take the column size from the user
 
 It should print pattern of the given size
 
-# Sample Input 0
-
+# Sample Input 
 5
 5
 
 
-# Sample Output 0
-
+# Sample Output
 11111
 1   1
 1   1
 1   1
 11111
+
+
